@@ -12,7 +12,9 @@ python create_tfrecord.py --dataset_dir='/dataset' --num_shards=2 --tfrecord_fil
 
 dataset\
         ...jpg
+        
         ...jpg
+        
         ...jpg
 
       
