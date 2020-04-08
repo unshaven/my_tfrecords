@@ -11,12 +11,9 @@ python create_tfrecord.py --dataset_dir='/dataset' --num_shards=2 --tfrecord_fil
 文件夹的格式：
 
 dataset\
-      ...jpg
-      ...jpg
-      ...jpg
-        ....jpg
-            ....jpg
-            ....jpg
-      
+        ...jpg
+        ...jpg
+        ...jpg
+
       
     
